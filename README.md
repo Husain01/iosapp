@@ -3,10 +3,10 @@
 ![image](https://pbs.twimg.com/profile_banners/1040669393255055360/1662652901/1500x500)
 <div align="center">
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vishalvr/iosapp) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/vishalvr/iosapp) 
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/vishalvr/iosapp)
-[![Hacktoberfest-22](https://img.shields.io/static/v1.svg?label=Hacktoberfest-22&message=accepted&color=red)](https://github.com/vishalvr/iosapp)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Sarthaking113/My_portfolio-) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Sarthaking113/My_portfolio-) 
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/Sarthaking113/My_portfolio-)
+[![Hacktoberfest-22](https://img.shields.io/static/v1.svg?label=Hacktoberfest-22&message=accepted&color=red)](https://github.com/Sarthaking113/My_portfolio-)
 </div>
 
 # 📌Steps to contribute.
@@ -19,7 +19,7 @@
 
 3. Add algorithms in the desired algorithm in the specified folder (create new folders as per your requirement). Anything goes, from android to ML to anything you like.
    
-4. Send a [Pull request](https://github.com/puruagarwal1/hacktoberfest-2022-directory/pulls)
+4. Send a [Pull request](https://github.com/Sarthaking113/My_portfolio-)
 
 5. I'll take a look at the change and then merge them with the master branch.
 
